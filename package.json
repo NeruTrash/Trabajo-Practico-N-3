@@ -1,0 +1,1 @@
+{"name":"tp3-maximo-aceituno","version":"1.0.0","private":true,"description":"Trabajo práctico de frontend en HTML CSS y JavaScript","scripts":{"start":"node server.cjs","test":"node --test tests/logic.test.cjs"}}

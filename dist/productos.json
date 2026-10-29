@@ -1,0 +1,8 @@
+[
+  {"id":1,"nombre":"Mouse óptico","categoria":"Periféricos","marca":"Nexo","precio":8500,"stock":10,"imagen":"assets/mouse.svg","descripcion":"Mouse con conexión USB, sensor óptico y diseño cómodo para estudiar, trabajar o jugar."},
+  {"id":2,"nombre":"Teclado mecánico","categoria":"Periféricos","marca":"Nexo","precio":35000,"stock":5,"imagen":"assets/teclado.svg","descripcion":"Teclado compacto con interruptores mecánicos y conexión USB. Más espacio para tu escritorio."},
+  {"id":3,"nombre":"Auriculares USB","categoria":"Audio","marca":"Sonix","precio":24000,"stock":7,"imagen":"assets/auriculares.svg","descripcion":"Auriculares con micrófono incorporado y almohadillas acolchadas para clases y videollamadas."},
+  {"id":4,"nombre":"Parlantes de escritorio","categoria":"Audio","marca":"Sonix","precio":28000,"stock":4,"imagen":"assets/parlantes.svg","descripcion":"Par de parlantes compactos para acompañar tu espacio de trabajo con un sonido claro."},
+  {"id":5,"nombre":"Soporte para notebook","categoria":"Accesorios","marca":"BasePro","precio":18000,"stock":6,"imagen":"assets/soporte.svg","descripcion":"Soporte de aluminio que eleva la pantalla y deja espacio para la ventilación de tu notebook."},
+  {"id":6,"nombre":"Hub USB multipuerto","categoria":"Accesorios","marca":"BasePro","precio":15000,"stock":0,"imagen":"assets/hub.svg","descripcion":"Adaptador compacto con cuatro puertos para conectar tus periféricos. Temporalmente sin stock."}
+]

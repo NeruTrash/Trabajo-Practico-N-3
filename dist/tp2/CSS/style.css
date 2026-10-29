@@ -1,0 +1,236 @@
+body{
+    background:#f5f5f5;
+}
+
+.card{
+    border-radius:20px;
+}
+
+h1{
+    font-weight:bold;
+}
+
+h3{
+    margin-top:30px;
+}
+
+img{
+    border:5px solid #0d6efd;
+}
+
+/* ===========================
+   ESTILOS GENERALES
+=========================== */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f5f2;
+    color: #3e2723;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Playfair Display', serif;
+}
+
+section{
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+/* ===========================
+   NAVBAR
+=========================== */
+
+.navbar{
+    background-color:#4e342e !important;
+}
+
+.navbar-brand{
+    font-size:1.8rem;
+}
+
+.nav-link{
+    color:white !important;
+    transition:.3s;
+}
+
+.nav-link:hover{
+    color:#d7b899 !important;
+}
+
+/* ===========================
+   CARRUSEL
+=========================== */
+
+.carousel-item img{
+    height:650px;
+    object-fit:cover;
+    filter:brightness(60%);
+}
+
+.carousel-caption{
+    bottom:30%;
+}
+
+.carousel-caption h1{
+    font-size:4rem;
+}
+
+.carousel-caption p{
+    font-size:1.3rem;
+}
+
+/* ===========================
+   BOTONES
+=========================== */
+
+.btn-warning{
+    background:#8d6e63;
+    border:none;
+    color:white;
+    transition:.3s;
+}
+
+.btn-warning:hover{
+    background:#5d4037;
+}
+
+.btn-dark{
+    background:#4e342e;
+}
+
+.btn-dark:hover{
+    background:#3e2723;
+}
+
+/* ===========================
+   TARJETAS
+=========================== */
+
+.card{
+    border:none;
+    transition:.4s;
+    border-radius:15px;
+    overflow:hidden;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+    box-shadow:0px 15px 30px rgba(0,0,0,.25);
+}
+
+.card img{
+    height:220px;
+    object-fit:cover;
+}
+
+.card h4{
+    color:#6d4c41;
+}
+
+/* ===========================
+   NOSOTROS
+=========================== */
+
+#nosotros img{
+    border-radius:20px;
+}
+
+/* ===========================
+   MODAL
+=========================== */
+
+.modal-content{
+    border-radius:20px;
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+footer{
+    background:#3e2723 !important;
+}
+
+footer h4{
+    margin-bottom:20px;
+}
+
+footer p{
+    color:#ddd;
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:768px){
+
+.carousel-caption{
+    bottom:15%;
+}
+
+.carousel-caption h1{
+    font-size:2.3rem;
+}
+
+.carousel-caption p{
+    font-size:1rem;
+}
+
+.navbar-brand{
+    font-size:1.4rem;
+}
+
+}
+
+.form-control:focus{
+border:3px solid #6F4E37;
+box-shadow:0 0 10px #C4A484;
+}
+
+.btn3d{
+background:#6F4E37;
+color:white;
+padding:15px 30px;
+border:none;
+border-radius:8px;
+box-shadow:0 6px #4a3324;
+transition:.2s;
+}
+
+.btn3d:active{
+transform:translateY(6px);
+box-shadow:0 0 #4a3324;
+}
+
+.form-control:focus{
+border:3px solid #6F4E37;
+box-shadow:0 0 10px #C4A484;
+}
+
+.btn3d{
+background:#6F4E37;
+color:white;
+padding:15px 30px;
+border:none;
+border-radius:8px;
+box-shadow:0 6px #4a3324;
+transition:.2s;
+}
+
+.btn3d:active{
+transform:translateY(6px);
+box-shadow:0 0 #4a3324;
+}
+
+.link-estilo{
+text-decoration:none;
+color:#6F4E37;
+transition:.4s;
+}
+
+.link-estilo:hover{
+color:#C4A484;
+letter-spacing:2px;
+}
