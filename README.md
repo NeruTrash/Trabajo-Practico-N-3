@@ -36,7 +36,7 @@ Los flujos de navegador adicionales se describen en `VERIFICACION.md` después d
 
 ## Portafolio del TP 2 integrado y entrega
 
-Se incorporó el material del archivo Trabajo Práctico N°2.7z. La carpeta dist/tp2 conserva el formulario gamer, Aroma Café, la guía de estilo, el CV y el portafolio anterior. En dist/tp2/portafolio.html se agregaron TecnoStore y Adiviná el número, con historia de usuario, responsable individual, bitácora y enlace de apertura. La portada principal reúne los cinco proyectos y enlaza el CV y el portafolio actualizado.
+Se incorporó el material del archivo Trabajo Práctico N°2. La carpeta dist/tp2 conserva el formulario gamer, Aroma Café, la guía de estilo, el CV y el portafolio anterior. En dist/tp2/portafolio.html se agregaron TecnoStore y Adiviná el número, con historia de usuario, responsable individual, bitácora y enlace de apertura. La portada principal reúne los cinco proyectos y enlaza el CV y el portafolio actualizado.
 
 Se corrigieron rutas de CSS y JavaScript, se normalizaron las etiquetas generales de los HTML y se incluyó Bootstrap 5.3.7 localmente para conservar los componentes heredados. La fotografía de perfil faltante se reemplazó por las iniciales del autor. Las fotografías y las fuentes externas de Aroma Café conservan sus enlaces originales y requieren conexión a Internet.
 
